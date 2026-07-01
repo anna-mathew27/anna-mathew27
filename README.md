@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anna Mathew 👋
 
-<!--
-**anna-mathew27/anna-mathew27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT Operations and Service Delivery professional based in Singapore, with 12+ years of experience across application support, production support, incident management, Salesforce Service Cloud, ServiceNow, SQL, integrations, and enterprise operations.
 
-Here are some ideas to get you started:
+Most recently, I led a 30-member production support team supporting Meta's global operations through Wipro, covering incident/problem management, SLA/KPI tracking, stakeholder communication, go-live support, SOP/runbook documentation, and continuous service improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I supported Louis Vuitton's APAC retail, supply chain, and logistics technology operations across Singapore, Japan, Malaysia, Korea, and ANZ.
+
+## Focus Areas
+- IT Service Delivery
+- Application Support
+- Production Support
+- Incident & Problem Management
+- Change Management
+- Salesforce Service Cloud
+- ServiceNow
+- SQL Troubleshooting
+- Retail Systems Support
+- SOPs, Runbooks & RCA Documentation
+
+## Portfolio Projects
+I use this GitHub profile to share practical templates, playbooks, SQL examples, and automation ideas related to IT operations and enterprise support.
